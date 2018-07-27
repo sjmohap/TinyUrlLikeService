@@ -1,0 +1,6 @@
+This file provides the design of the tiny URL like Service that is designed Here.
+Some of the concepts needed to be known before designing the service are as follows:
+
+1. MD5
+2. ZooKeeper
+3. Worker Threads
